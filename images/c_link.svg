@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1200 800" style="enable-background:new 0 0 1200 800;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#CDD0D0;}
+	.st0{fill:#E5EAEA;}
 	.st1{fill:#E50A0A;}
 	.st2{clip-path:url(#SVGID_2_);}
 	.st3{fill:#071216;}
@@ -18,15 +18,16 @@
 				<g>
 					<g>
 						<g>
-							<defs>
-								<polygon id="SVGID_1_" points="486.5,291.1 417.6,388.8 431,408 444.4,388.8 513.4,291.1 								"/>
-							</defs>
-							<clipPath id="SVGID_2_">
-								<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-							</clipPath>
-							<g class="st2">
-								
-									<image style="overflow:visible;enable-background:new    ;" width="459" height="559" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcsAAAIvCAYAAAAbP/BOAAAACXBIWXMAADRxAAA0cQFjcUx6AAAA
+							<g>
+								<defs>
+									<polygon id="SVGID_1_" points="486.5,291.1 417.6,388.8 431,408 444.4,388.8 513.4,291.1 									"/>
+								</defs>
+								<clipPath id="SVGID_2_">
+									<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+								</clipPath>
+								<g class="st2">
+									
+										<image style="overflow:visible;enable-background:new    ;" width="459" height="559" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcsAAAIvCAYAAAAbP/BOAAAACXBIWXMAADRxAAA0cQFjcUx6AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAMzlJREFUeNrs3fe3ZcV1J/BCgIAm
 5yxaBGXJkizLYZJn7Jn5cf7R8diyck5IIomMyKnJoUlN6IYG5nxVp6yLdM/tBjq89/bns1aty/Ly
 Ek2922+fvevsXa0BAAAAAAAAHD8n2AKAzZ7atcvvynrev/zNNwVLAIGSww2Yn7AXAAIlm51kCwAW
@@ -259,7 +260,8 @@ VX4FECwrBswEw2dbn+7zs/bBYesJpuPmku+Y0gMgWFaWbDFD0FNm/X374GXOt7feJvKwbQIQLCtn
 l2O6z63T+r/T2jMH0Mdan9Jzg10CECwFzN5Osrf1N2MTINN/maHrPzKlB6C2k2zBB4zpPv8yrZRd
 b5kC5R7bAlDbCbbgg57atSvZ9inzesPbrwAAAAAAAAAAAABb2P8XYAAwJLRzXfIqogAAAABJRU5E
 rkJggg==" transform="matrix(0.209 0 0 0.209 417.6104 291.1377)">
-								</image>
+									</image>
+								</g>
 							</g>
 						</g>
 					</g>
@@ -284,8 +286,8 @@ rkJggg==" transform="matrix(0.209 0 0 0.209 417.6104 291.1377)">
 			<polygon class="st3" points="456.2,417 479.8,417 479.8,348.5 456.2,382.3 			"/>
 			<path class="st3" d="M262,381.5l-0.9,1.7c-5,9.2-10.3,13.1-18.4,13.1c-5.4,0-9.8-1.9-13.5-5.7c-3.7-3.9-5.6-8.7-5.6-14.8
 				s1.9-11.1,5.6-14.8c3.7-3.7,8.2-5.6,13.4-5.6c7.7,0,13.4,4,17.3,12.3l0.8,1.7l19.2-14.6c-6-13.6-19.8-21.7-36.8-21.7
-				c-12.3,0-22.7,4-30.8,11.8c-8.2,7.9-12.4,18.3-12.4,30.9c0,12.6,4,22.9,12,30.9c8,7.9,18.3,11.9,30.7,11.9
-				c16.5,0,27.8-6.6,37.8-22l0.4-0.7L262,381.5z"/>
+				c-12.3,0-22.7,4-30.8,11.8c-8.2,7.9-12.4,18.3-12.4,30.9s4,22.9,12,30.9c8,7.9,18.3,11.9,30.7,11.9c16.5,0,27.8-6.6,37.8-22
+				l0.4-0.7L262,381.5z"/>
 			<path class="st3" d="M898.6,381.5l-0.9,1.7c-5,9.2-10.3,13-18.4,13c-5.4,0-9.8-1.9-13.5-5.7c-3.7-3.9-5.6-8.7-5.6-14.8
 				s1.9-11.1,5.6-14.8c3.7-3.7,8.2-5.6,13.4-5.6c7.7,0,13.4,4,17.3,12.3l0.8,1.7l19.2-14.6c-6-13.6-19.8-21.7-36.8-21.7
 				c-12.3,0-22.7,4-30.8,11.8c-8.2,7.8-12.4,18.2-12.4,30.9s4,22.9,12,30.9s18.3,11.9,30.7,11.9c16.5,0,27.8-6.6,37.8-22l0.4-0.7
